@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10Video\Kaypro10Video-F_Cu.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10Video\Kaypro10Video-B_Cu.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10Video\Kaypro10Video-F_Paste.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10Video\Kaypro10Video-B_Paste.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10Video\Kaypro10Video-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10Video\Kaypro10Video-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10Video\Kaypro10Video-F_Mask.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10Video\Kaypro10Video-B_Mask.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10Video\Kaypro10Video-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10Video\Kaypro10Video-job.gbrjob'.
+Info: Done.

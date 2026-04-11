@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinHeader_1x04_P2.54mm_Horizontal,1,Conn_01x04_Pin,
+U1,DIP-40_W15.24mm_Socket,1,Z80CPU,
+U2,DIP-40_W15.24mm,1,Z80CPU,

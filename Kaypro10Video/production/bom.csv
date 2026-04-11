@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,RaspberryPi_Pico_Common_Unspecified,1,RaspberryPi_Pico,
+"C1, C2",C_Disc_D5.0mm_W2.5mm_P5.00mm,2,C,
+HEADER PINS1,DIP-24_W15.24mm,1,~,
+J1,PinHeader_1x03_P2.54mm_Horizontal,1,Conn_01x03_Pin,
+J2,PinHeader_1x04_P2.54mm_Horizontal,1,Conn_01x04_Pin,
+J3,PinHeader_1x02_P2.54mm_Horizontal,1,Conn_01x02_Pin,
+"R1, R10, R11, R12, R2, R3, R4, R5, R6, R7, R8, R9",2010,12,100,
+"U1, U2",DIP-20_W7.62mm,2,SN74LVC245,
+U3,DIP-24_18.0mmx34.29mm_W15.24mm_Socket,1,4k EPROM,

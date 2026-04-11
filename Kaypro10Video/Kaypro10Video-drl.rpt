@@ -1,0 +1,27 @@
+Drill report for Kaypro10Video.kicad_pcb
+Created on 2026-04-04T04:22:34-0500
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Kaypro10Video-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (6 holes)
+    T2  0.800mm  0.0315"  (92 holes)
+    T3  1.000mm  0.0394"  (40 holes)
+    T4  1.700mm  0.0669"  (9 holes)
+
+    Total plated holes count 147
+
+
+Drill file 'Kaypro10Video-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.850mm  0.0728"  (2 holes)
+    T2  2.200mm  0.0866"  (2 holes)
+
+    Total unplated holes count 4

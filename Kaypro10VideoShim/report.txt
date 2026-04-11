@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10VideoShim\Kaypro10VideoShim-F_Cu.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10VideoShim\Kaypro10VideoShim-B_Cu.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10VideoShim\Kaypro10VideoShim-F_Paste.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10VideoShim\Kaypro10VideoShim-B_Paste.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10VideoShim\Kaypro10VideoShim-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10VideoShim\Kaypro10VideoShim-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10VideoShim\Kaypro10VideoShim-F_Mask.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10VideoShim\Kaypro10VideoShim-B_Mask.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10VideoShim\Kaypro10VideoShim-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\Kaypro10VideoShim\Kaypro10VideoShim-job.gbrjob'.
+Info: Done.
