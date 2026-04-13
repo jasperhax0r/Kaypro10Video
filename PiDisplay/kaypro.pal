@@ -1,0 +1,40 @@
+# kaypro.pal — Kaypro display color palette
+# Place this file in the root of the Pi Zero 2W SD card
+#
+# Format:  mode_name  fg_rrggbb  bg_rrggbb
+# Colors are hex RGB (no # prefix), e.g. 00FF46 = bright green
+#
+# Mode names: green | amber | white | white_blue | rainbow
+# rainbow mode uses per-row hue cycling; bg color is still used for 0-pixels
+#
+# ── Built-in defaults (edit to customize) ────────────────────────────────────
+
+# Classic phosphor green — slightly warm green like a P1 phosphor
+green        00FF46     000000
+
+# Amber phosphor — warm golden amber like a P3 phosphor
+amber        FFB000     000000
+
+# White on black — clean paper-white look
+white        FFFFFF     000000
+
+# White on blue — classic DOS/CP/M blue screen
+white_blue   FFFFFF     0000AA
+
+# Rainbow — fg color is ignored (per-row hue), bg is for dark pixels
+rainbow      000000     000000
+
+# ── Custom palette examples ───────────────────────────────────────────────────
+# Uncomment and rename to try these:
+
+# Cyan on black (like old Osborne terminal)
+# green        00FFFF     000000
+
+# Yellow on black
+# amber        FFFF00     000000
+
+# Green on dark green (softer retro look)
+# green        00CC44     001100
+
+# White on dark navy
+# white_blue   EEEEFF     000033

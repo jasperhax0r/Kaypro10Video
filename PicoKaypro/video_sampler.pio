@@ -1,0 +1,20 @@
+; ============================================================
+; Kaypro Character ROM Snooper PIO - DE Gated
+;
+; GP0-GP7 = D0-D7 from 2732 character ROM (8 pixel bits)
+; GP9     = CCLK from 6545 CRTC (~1.286 MHz)
+; GP11    = DE (Display Enable) - Set as JMP PIN in C code
+; ============================================================
+
+.program video_sampler
+
+.wrap_target
+    wait 1 gpio 11      ; Wait for Display Enable (DE) to go HIGH
+active_line:
+    wait 1 gpio 9       ; Wait CCLK HIGH
+    wait 0 gpio 9       ; Wait CCLK LOW (falling edge, data is stable)
+    in pins, 8          ; Sample 8 pixel bits
+    push                ; Push to FIFO
+    jmp pin active_line ; If DE is still HIGH, loop and capture next char
+    ; If DE goes LOW, it falls through to .wrap and waits for next line
+.wrap

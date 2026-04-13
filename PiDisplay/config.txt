@@ -1,0 +1,3 @@
+# Kaypro Display - Pi Zero 2W
+# Force UART clock to 48MHz for reliable high-speed UART
+init_uart_clock=48000000
