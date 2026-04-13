@@ -2,8 +2,8 @@
 
 A hardware and firmware project that taps the character ROM of a Kaypro 10 CP/M computer and outputs a live HDMI display via a Raspberry Pi Zero 2W running Circle bare metal. No modifications are made to the Kaypro's original circuitry.
 
-![Kaypro 10 displaying CP/M on HDMI monitor](kaypro10hdmi.jpg)
-![Kaypro 10 displaying CP/M on HDMI monitor](kaypro10adapter.jpg)
+![Kaypro 10 displaying CP/M on HDMI monitor](https://raw.githubusercontent.com/jasperhax0r/Kaypro10Video/main/kaypro10hdmi.jpg)
+![Kaypro 10 adapter PCB](https://raw.githubusercontent.com/jasperhax0r/Kaypro10Video/main/kaypro10adapter.png)
 ---
 
 ## How It Works
