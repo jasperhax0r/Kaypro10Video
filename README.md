@@ -39,7 +39,7 @@ KiCad PCB files for the main capture board. This board sits between the Kaypro m
 
 - Dual SN74LVCH245 level shifters (5V Kaypro → 3.3V Pico)
 - 100Ω series resistors on all signal lines
-- Piggyback ZIF socket for the 2732 character ROM
+- Piggyback socket for the 2732 character ROM
 - JST connector for control signals from the 6545 shim
 
 ### `Kaypro10VideoShim/`
